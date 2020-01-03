@@ -1,0 +1,4 @@
+numpy
+nltk
+h5py
+pytorch
