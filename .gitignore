@@ -6,3 +6,4 @@
 /data/
 !/data/
 .idea
+!/raw_data/
